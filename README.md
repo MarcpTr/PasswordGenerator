@@ -1,6 +1,7 @@
 # Secure Password Generator
 
 This is a simple web application built with React and Tailwind CSS that allows users to generate secure, random passwords. The app provides options to customize the password by selecting the length, inclusion of symbols, numbers, and uppercase letters.
+[LIVE APP](https://password-generator.marcpericot.es/)
 
 ## Features
 
